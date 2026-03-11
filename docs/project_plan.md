@@ -5,8 +5,9 @@ CESSDA
 Dryad
 
 ## Workflow
-1. Query Dryad API
+1. Collect metadata from Dryad API
 2. Collect metadata from CESSDA
-3. Merge metadata
-4. Classify datasets
-5. Analyze results
+3. Merge and clean metadata
+4. Remove duplicates
+5. Classify datasets with ISIC
+6. Produce statistics and analysis
